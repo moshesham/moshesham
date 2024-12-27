@@ -1,7 +1,5 @@
 # Hi there, I'm Moshe Sham 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=moshesham)
-
 ## About Me
 
 Welcome to my GitHub profile! I'm Moshe Shamouilian, a data enthusiast with a passion for turning raw data into actionable insights. With extensive experience in data engineering, quantitative analysis, and product analytics, I thrive on solving complex data challenges and optimizing processes.
@@ -29,5 +27,9 @@ Here are some of the technologies and tools I work with:
 
 ## Connect with Me
 
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/moshesham/))
+- [LinkedIn](https://www.linkedin.com/in/moshesham/)
 - [Email](mailto:Moshesham@gmail.com)
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=moshesham)
+
