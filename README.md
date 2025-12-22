@@ -6,15 +6,17 @@
   Hi there, I'm Moshe Shamouilian
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">Distributed Systems | Data Lakehouse Architect | Fraud & Risk Engineering</h3>
+<h3 align="center">Senior Data Engineer | Data Lakehouse Architect | Enterprise Data Strategy | Fraud & Risk Engineering</h3>
 
 ---
 
 ### 📖 About Me
 
-I architect **Medallion-style Data Lakehouses** that defeat bad actors and mitigate risk at massive scale. With over a decade of experience building fraud detection and risk platforms at **JPMorgan Chase** and **Citi**, I engineer distributed systems that process **20GB+ daily IoT data** and manage **multi-TB financial warehouses** using **Apache Iceberg**, **Apache Flink**, and **Apache Spark**.
+I am a **Senior Data Platform Engineer** and **Architect** driven by complex engineering challenges. Currently,  at **BrightSource**, building  **IoT-driven Lakehouses** that optimize **renewable energy** power consumption and strategies.
 
-My mission: Build resilient, high-performance platforms that detect fraudulent patterns, combat financial crime, and turn raw data streams into mission-critical intelligence. Every pipeline I deploy is battle-tested for production reliability through **CI/CD**, **Infrastructure as Code**, and automated testing.
+My background spans from **Quantitative Risk** at top-tier banks (**JPMorgan Chase, Citi**) to real-time industrial telemetry. I specialize in the **Modern Data Stack**—building **AWS Data Lakehouses** with **Apache Iceberg** and **Flink** to unify streaming and batch workflows.
+
+I don't just move data; I engineer robust platforms using software engineering rigor (**CI/CD**, **Infrastructure as Code**, **Automated Testing**) to ensure that pipelines are as reliable as the application code they support.
 
 - 🔭 I'm currently architecting real-time streaming platforms with Flink and Iceberg table formats on AWS.
 - 🌱 I'm deep into **DataOps**, **Lakehouse patterns**, and building **Data as a Product** pipelines.
